@@ -1,0 +1,22 @@
+
+#principal{
+    border: solid 5px rgb(228, 217, 217);
+    width: 80%;
+    margin: 0% auto;
+    padding: 5px;
+}
+fieldset{
+    border: solid 1px rgb(255, 216, 229);
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: rgb(243, 226, 226);
+}
+
+#mifoto{
+    margin: 5px;
+    border: solid 4px rgb(245, 228, 239);
+    display:block;
+    margin: 0 auto;
+}
+
